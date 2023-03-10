@@ -5,8 +5,9 @@
 
 <!-- <img src="https://camo.githubusercontent.com/3997f3b27a68e19c31e2d1c378d77303735faa42e7d18a8018f7510d66aaa83e/68747470733a2f2f7777772e77696e677374656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966" width="100%" height="50%">
  -->
-<h1 align ="center">Hi 👋, I'm Harshal Wagh</h1>
-<h3 align ="center">A passionate Full-Stack Web Developer</h3>
+<!-- <h1 align ="center">Hi 👋, I'm Harshal Wagh</h1>
+<h3 align ="center">A passionate Full-Stack Web Developer</h3> -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=2000&pause=1000&color=0FE6F7&center=true&width=550&lines=Hello++I'm+Harshal;Aspiring+Full+Stack+Developer" alt="Typing SVG" /></a>
 
 <h1> About Me</h1>
 
@@ -29,7 +30,8 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=HarshalWagh-1137&style=flat-square&color=blue" alt=""/>
 <h1> Languages and Tools </h1>
-<div>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,netlify,vscode,git,figma,github,codepen,nodejs,express,mongodb,postman,replit,linux,vim"/>
+<!-- <div>
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -37,7 +39,7 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
+</div> -->
 <h1>Achivements</h1>
 
 <!---
