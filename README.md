@@ -1,4 +1,4 @@
-# 8309h
+<!-- # 8309h -->
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -7,7 +7,9 @@
  -->
 <!-- <h1 align ="center">Hi 👋, I'm Harshal Wagh</h1>
 <h3 align ="center">A passionate Full-Stack Web Developer</h3> -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=2000&pause=1000&color=0FE6F7&center=true&width=550&lines=Hello++I'm+Harshal;Aspiring+Full+Stack+ Web+Developer" alt="Typing SVG" /></a>
+<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=2000&pause=1000&color=0FE6F7&center=true&width=550&lines=Hello++I'm+Harshal;Aspring+Full+Stack+ Web+Developer" alt="Typing SVG" /></a>
+</div>
+
 
 <h1> About Me</h1>
 
