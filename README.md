@@ -7,7 +7,7 @@
  -->
 <!-- <h1 align ="center">Hi 👋, I'm Harshal Wagh</h1>
 <h3 align ="center">A passionate Full-Stack Web Developer</h3> -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=2000&pause=1000&color=0FE6F7&center=true&width=550&lines=Hello++I'm+Harshal;Aspiring+Full+Stack+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=2000&pause=1000&color=0FE6F7&center=true&width=550&lines=Hello++I'm+Harshal;Aspiring+Full+Stack+ Web+Developer" alt="Typing SVG" /></a>
 
 <h1> About Me</h1>
 
@@ -30,7 +30,7 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=HarshalWagh-1137&style=flat-square&color=blue" alt=""/>
 <h1> Languages and Tools </h1>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,netlify,vscode,git,figma,github,codepen,nodejs,express,mongodb,postman,replit,linux,vim"/>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,netlify,vscode,git,github,codepen,nodejs,express,mongodb,postman,replit"/>
 <!-- <div>
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>
