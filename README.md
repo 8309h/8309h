@@ -48,18 +48,19 @@
 <h1>Achivements</h1>
 
 <!---
-HarshalWagh-1137✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+8309h✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=8309h&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### :fire: My Stats :
-[![Harshal wagh GitHub stats](https://github-readme-stats.vercel.app/api?username=8309h&count_private=true&theme=dark&background=000000)](https://github.com/HarshalWagh-1137/github-readme-stats)<span>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=8309h&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)</span>
+[![Harshal wagh GitHub stats](https://github-readme-stats.vercel.app/api?username=8309h&count_private=true&theme=dark&background=000000)](https://github.com/8309h/github-readme-stats)<span>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=8309h&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)</span>
 
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?username=8309h&theme=dark&background=000000)](https://git.io/streak-stats)
+<!--  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?username=8309h&theme=dark&background=000000)](https://git.io/streak-stats) -->
+ 
 
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=8309h)](https://git.io/streak-stats)
 
 
 
