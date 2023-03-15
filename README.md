@@ -31,8 +31,8 @@
   <a href="https://www.instagram.com/harshal_k_wagh/">
     <img src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white" alt="insta Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://drive.google.com/file/d/1aLKITgYHPkZ0ekOaMVF_yrr-2oKSwxRb/view?usp=share_link">
+    <img src="https://img.shields.io/badge/Resume-blue?style=for-the-badge&logo=Resume&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=HarshalWagh-1137&style=flat-square&color=blue" alt=""/>
