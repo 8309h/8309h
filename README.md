@@ -64,7 +64,9 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=8309h&theme=dark&background=000000)](https://git.io/streak-stats)
 
-<div align="start">
-  <img src="https://media.giphy.com/media/3o6nVbpDfXbRv7D1wA/giphy.gif" width="600" height="300"/>
-</div>
+ 
+ [![](https://user-images.githubusercontent.com/80870870/225319799-203222e7-8333-4506-bfc8-265bb762fabd.gif)](https://github.com/surajbhan-3/Quotes-gifs)
+
+
+ 
 
