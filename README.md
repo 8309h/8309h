@@ -38,7 +38,7 @@
 <img src="https://komarev.com/ghpvc/?username=HarshalWagh-1137&style=flat-square&color=blue" alt=""/>
 <h1> Languages and Tools </h1>
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,netlify,vscode,git,github,codepen,nodejs,express,mongodb,postman,replit"/>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,netlify,vscode,git,github,codepen,nodejs,express,mongodb,postman,replit,figma,svg"/>
 <!-- <div>
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>
