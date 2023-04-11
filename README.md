@@ -20,7 +20,7 @@
 - 🤝 I’m looking to collaborate with some genious people as you.
 - 💌 Reach at me  <em><a href="harshalwagh201718@gmail.com">harshalwagh201718@gmail.com</a></em>
 - 🔗 Connect me Linkedin <a target=_blank href="https://www.linkedin.com/in/waghharshal/" >Linkedin</a>
-- 📑 Know More about me  <a href="https://drive.google.com/file/d/1aLKITgYHPkZ0ekOaMVF_yrr-2oKSwxRb/view?usp=share_link">Resume</a>
+- 📑 Know More about me  <a href="https://drive.google.com/file/d/1HazHdOQ_uKC1qOPpmJOKk0V9WnX--6y_/view?usp=share_link">Resume</a>
 
 
 <h1>Connect With Me</h1>
@@ -31,7 +31,7 @@
   <a href="https://www.instagram.com/harshal_k_wagh/">
     <img src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white" alt="insta Badge"/>
   </a>
-  <a href="https://drive.google.com/file/d/1aLKITgYHPkZ0ekOaMVF_yrr-2oKSwxRb/view?usp=share_link">
+  <a href="https://drive.google.com/file/d/1HazHdOQ_uKC1qOPpmJOKk0V9WnX--6y_/view?usp=share_link">
     <img src="https://img.shields.io/badge/Resume-blue?style=for-the-badge&logo=Resume&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
