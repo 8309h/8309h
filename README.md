@@ -21,8 +21,6 @@
 - 💌 Reach at me  <em><a href="harshalwagh201718@gmail.com">harshalwagh201718@gmail.com</a></em>
 - 🔗 Connect me Linkedin <a target=_blank href="https://www.linkedin.com/in/waghharshal/" >Linkedin</a>
 - 📑 Know More about me  <a href="https://drive.google.com/file/d/1HazHdOQ_uKC1qOPpmJOKk0V9WnX--6y_/view?usp=share_link">Resume</a>
-- 🔗 Visit my portfollio <a target=_blank href="https://8309h.github.io/" >Portfollio</a>
-- 
 
 
 <h1>Connect With Me</h1>
@@ -59,7 +57,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=8309h&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### :fire: My Stats :
-[![Harshal wagh GitHub stats](https://github-readme-stats.vercel.app/api?username=8309h&count_private=true&theme=dark&background=000000)](https://github.com/8309h/github-readme-stats)<span>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=8309h&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)</span>
+[![Harshal wagh GitHub stats](https://github-readme-stats.vercel.app/api?username=8309h&count_private=false&theme=dark&background=000000)](https://github.com/8309h/github-readme-stats)<span>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=8309h&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)</span>
 
 <!--  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?username=8309h&theme=dark&background=000000)](https://git.io/streak-stats) -->
  
@@ -67,7 +65,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=8309h&theme=dark&background=000000)](https://git.io/streak-stats)
 
  
- [![](https://user-images.githubusercontent.com/80870870/225319799-203222e7-8333-4506-bfc8-265bb762fabd.gif)](https://github.com/surajbhan-3/Quotes-gifs)
+ [![](https://user-images.githubusercontent.com/80870870/225319799-203222e7-8333-4506-bfc8-265bb762fabd.gif)](https://github.com/8309h/Quotes-gifs)
 
 
  
