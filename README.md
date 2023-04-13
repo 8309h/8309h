@@ -21,7 +21,7 @@
 - 💌 Reach at me  <em><a href="harshalwagh201718@gmail.com">harshalwagh201718@gmail.com</a></em>
 - 🔗 Connect me Linkedin <a target=_blank href="https://www.linkedin.com/in/waghharshal/" >Linkedin</a>
 - 📑 Know More about me  <a href="https://drive.google.com/file/d/1HazHdOQ_uKC1qOPpmJOKk0V9WnX--6y_/view?usp=share_link">Resume</a>
-- 🔗 Visit my portfollio <a target=_blank href="https://8309h.github.io/" >Portfollio</a>
+- 🔗 Visit my portfolio <a target=_blank href="https://8309h.github.io/" >Portfollio</a>
 
 
 <h1>Connect With Me</h1>
