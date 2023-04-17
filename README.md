@@ -21,9 +21,9 @@
 - - 👀 <b>I’m interested in makes the changes.</b>
 - 💻 Learnt <b>Full Stack Web Development from Masai School</b>
 - 🤝 I’m looking to collaborate with some genious people as you.
-- 💌 Reach at me  <em><a href="harshalwagh201718@gmail.com">harshalwagh201718@gmail.com</a></em>
-- 🔗 Connect me Linkedin <a target=_blank href="https://www.linkedin.com/in/waghharshal/" >Linkedin</a>
-- 📑 Know More about me  <a href="https://drive.google.com/file/d/1HazHdOQ_uKC1qOPpmJOKk0V9WnX--6y_/view?usp=share_link">Resume</a>
+- 💌 Reach at me harshalwagh201718@gmail.com
+<!-- - 🔗 Connect me Linkedin <a target=_blank href="https://www.linkedin.com/in/waghharshal/" >Linkedin</a> -->
+- 📑 Know More about me Resume  https://drive.google.com/file/d/1HazHdOQ_uKC1qOPpmJOKk0V9WnX--6y_/view?usp=share_link
 - 📫 My Portfolio https://8309h.github.io/
 
 
