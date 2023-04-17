@@ -24,7 +24,7 @@
 - 💌 Reach at me harshalwagh201718@gmail.com
 <!-- - 🔗 Connect me Linkedin <a target=_blank href="https://www.linkedin.com/in/waghharshal/" >Linkedin</a> -->
 - 📑 Know More about me Resume  https://drive.google.com/file/d/1HazHdOQ_uKC1qOPpmJOKk0V9WnX--6y_/view?usp=share_link
-- 📫 My Portfolio https://8309h.github.io/
+- 📫  https://8309h.github.io/
 
 
 <h3 align="left">Connect with me:</h3>
