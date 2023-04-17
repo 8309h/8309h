@@ -14,7 +14,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=8309h&label=Profile%20views&color=0e75b6&style=flat" alt="8309h" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=8309h&label=Profile%20views&color=0e75b6&style=flat" alt="8309h" /> </p> -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=8309h" alt="harshl" /></a> </p>
 
@@ -23,8 +23,8 @@
 - 🤝 I’m looking to collaborate with some genious people as you.
 - 💌 Reach at me harshalwagh201718@gmail.com
 - 🔗 Connect me Linkedin <a target=_blank href="https://www.linkedin.com/in/waghharshal/" >Linkedin</a>
-- 🔗Know more about me  <a target=_blank href="https://drive.google.com/file/d/1HazHdOQ_uKC1qOPpmJOKk0V9WnX--6y_/view?usp=share_link" >Resume</a>
-- Portfolio https://8309h.github.io/
+- 🔗 Know more about me  <a target=_blank href="https://drive.google.com/file/d/1HazHdOQ_uKC1qOPpmJOKk0V9WnX--6y_/view?usp=share_link" >Resume</a>
+- 🔗 Portfolio https://8309h.github.io/
 
 
 <h3 align="left">Connect with me:</h3>
