@@ -24,7 +24,7 @@
 - 💌 Reach at me harshalwagh201718@gmail.com
 - 🔗 Connect me Linkedin <a target=_blank href="https://www.linkedin.com/in/waghharshal/" >Linkedin</a>
 - 🔗 Know more about me  <a target=_blank href="https://drive.google.com/file/d/1HazHdOQ_uKC1qOPpmJOKk0V9WnX--6y_/view?usp=share_link" >Resume</a>
-- 🔗 Portfolio https://8309h.github.io/
+- 🔗 Portfolio https://8309h.github.io/ <a target = _blank href = "https://earnest-hummingbird-bcdf24.netlify.app/">Click Here</a>
 
 
 <h3 align="left">Connect with me:</h3>
