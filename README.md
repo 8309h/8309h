@@ -23,7 +23,7 @@
 - 🤝 I’m looking to collaborate with some genious people as you.
 - 💌 Reach at me harshalwagh201718@gmail.com
 - 🔗 Connect me Linkedin <a target=_blank href="https://www.linkedin.com/in/waghharshal/" >Linkedin</a>
-- 🔗 Know more about me  <a target=_blank href="https://drive.google.com/file/d/1HazHdOQ_uKC1qOPpmJOKk0V9WnX--6y_/view?usp=share_link" >Resume</a>
+- 🔗 Know more about me  <a target=_blank href="https://drive.google.com/file/d/1zaKV0PMn3Zf79WhEMjPloyIMbvaWn_6R/view?usp=share_link" >Resume</a>
 - 🔗 My Portfolio <a target ="_blank" href = "https://8309harshalwagh.netlify.app/">Click Here</a>
 
 
