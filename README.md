@@ -35,9 +35,9 @@
    <a href="https://drive.google.com/file/d/1zaKV0PMn3Zf79WhEMjPloyIMbvaWn_6R/view?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-blue?style=for-the-badge&logo=Resume&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="https://www.instagram.com/harshal_k_wagh/">
+<!--   <a href="https://www.instagram.com/harshal_k_wagh/">
     <img src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white" alt="insta Badge"/>
-  </a>
+  </a> -->
  
 </div>
  <img src="https://komarev.com/ghpvc/?username=8309h&style=flat-square&color=blue" alt=""/>
