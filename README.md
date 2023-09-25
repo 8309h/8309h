@@ -8,7 +8,7 @@
 
 <h1 align="center">Hi 👋, I'm  Harshal Wagh</h1>
 <!-- <h3 align="center">A Passionate Full Stack Web Developer from India</h3> -->
-<h1 align="center">Aspiring Full Stack Web Developer</h11>
+<h1 align="center">Aspiring Full Stack Web Developer</h1>
 
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=8309h&label=Profile%20views&color=0e75b6&style=flat" alt="8309h" />
