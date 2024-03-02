@@ -16,7 +16,7 @@
 
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=8309h" alt="harshl" /></a></p>
 
-- 👀 <b>I’m interesting in development of real time projects</b>
+- 👀 <b>I’m interested in development of real time projects</b>
 - 💻 <b>Learnt Full Stack Web Development from Masai School</b>
 - 🤝 I’m looking to collaborate in the technology driven organisation 
 - 💌 Reach at me harshalwagh201718@gmail.com
