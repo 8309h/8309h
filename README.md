@@ -21,7 +21,7 @@
 - 🤝 I’m looking to collaborate in the technology driven organisation 
 - 💌 Reach at me harshalwagh201718@gmail.com
 - 🔗 Connect me Linkedin <a target=_blank href="https://www.linkedin.com/in/waghharshal/" >Linkedin</a>
-- 🔗 Know more about me  <a target=_blank href="https://drive.google.com/file/d/1zaKV0PMn3Zf79WhEMjPloyIMbvaWn_6R/view?usp=share_link" >Resume</a>
+- 🔗 Know more about me  <a target=_blank href="https://drive.google.com/file/d/1v0zJ2lWaY51cxkkRE-KgNmSkj-WgP3qI/view?usp=drive_link" >Resume</a>
 - 🔗 My Portfolio <a target ="_blank" href = "https://8309harshalwagh.netlify.app/">Click Here</a>
 
 
