@@ -30,7 +30,7 @@
   <a href="https://www.linkedin.com/in/WaghHarshal/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-   <a href="https://drive.google.com/file/d/1zaKV0PMn3Zf79WhEMjPloyIMbvaWn_6R/view?usp=sharing">
+   <a href="https://drive.google.com/file/d/1v0zJ2lWaY51cxkkRE-KgNmSkj-WgP3qI/view?usp=drive_link">
     <img src="https://img.shields.io/badge/Resume-blue?style=for-the-badge&logo=Resume&logoColor=white" alt="Twitter Badge"/>
   </a>
 <!--   <a href="https://www.instagram.com/harshal_k_wagh/">
