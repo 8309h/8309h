@@ -23,7 +23,8 @@
 - 🤝 Looking to collaborate in technology-driven organizations  
 - 💌 Email: **harshalwagh201718@gmail.com**  
 - 🔗 LinkedIn: [Click Here](https://www.linkedin.com/in/waghharshal/)  
-- 📄 Resume: [View Here](https://drive.google.com/file/d/1v0zJ2lWaY51cxkkRE-KgNmSkj-WgP3qI/view?usp=drive_link)  
+ -📄  Resume: [ View Resume](https://drive.google.com/file/d/1v0zJ2lWaY51cxkkRE-KgNmSkj-WgP3qI/view?usp=sharing)  [⬇️ Download Resume](https://drive.google.com/uc?export=download&id=1v0zJ2lWaY51cxkkRE-KgNmSkj-WgP3qI)
+
 - 🌐 Portfolio: [8309harshalwagh.netlify.app](https://8309harshalwagh.netlify.app/)  
 
 ---
