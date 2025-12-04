@@ -1,93 +1,99 @@
 <!-- # 8309h -->
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120"/>
 </div>
 
+<h1 align="center">Hi 👋, I'm Harshal Wagh</h1>
+<h3 align="center">Aspiring Full Stack Web Developer</h3>
 
-<h1 align="center">Hi 👋, I'm  Harshal Wagh</h1>
-<!-- <h3 align="center">A Passionate Full Stack Web Developer from India</h3> -->
-<h1 align="center">Aspiring Full Stack Web Developer</h1>
+---
 
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=8309h&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10" />
+</p>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=8309h&label=Profile%20views&color=0e75b6&style=flat" alt="8309h" />
-<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=2000&pause=1000&color=0FE6F7&center=true&width=550&lines=Aspring+Full+Stack+ Web+Developer" alt="Typing SVG" /></a>//
-</div></p> -->
+---
 
-<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=8309h" alt="harshl" /></a></p>
+## 🌟 About Me
 
-- 👀 <b>I’m interested in development of real time projects</b>
-- 💻 <b>Learnt Full Stack Web Development from Masai School</b>
-- 🤝 I’m looking to collaborate in the technology driven organisation 
-- 💌 Reach at me harshalwagh201718@gmail.com
-- 🔗 Connect me Linkedin <a target=_blank href="https://www.linkedin.com/in/waghharshal/" >Linkedin</a>
-- 🔗 Know more about me  <a target=_blank href="https://drive.google.com/file/d/1v0zJ2lWaY51cxkkRE-KgNmSkj-WgP3qI/view?usp=drive_link" >Resume</a>
-- 🔗 My Portfolio <a target ="_blank" href = "https://8309harshalwagh.netlify.app/">Click Here</a>
+- 👀 Interested in building real-time, scalable applications  
+- 💻 Learnt Full Stack Web Development from **Masai School**  
+- 🤝 Looking to collaborate in technology-driven organizations  
+- 💌 Email: **harshalwagh201718@gmail.com**  
+- 🔗 LinkedIn: [Click Here](https://www.linkedin.com/in/waghharshal/)  
+- 📄 Resume: [View Here](https://drive.google.com/file/d/1v0zJ2lWaY51cxkkRE-KgNmSkj-WgP3qI/view?usp=drive_link)  
+- 🌐 Portfolio: [8309harshalwagh.netlify.app](https://8309harshalwagh.netlify.app/)  
 
+---
 
-<h3 align="left">Connect with me:</h3>
-<div id="badges">
-  <a href="https://www.linkedin.com/in/WaghHarshal/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/waghharshal/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-   <a href="https://drive.google.com/file/d/1v0zJ2lWaY51cxkkRE-KgNmSkj-WgP3qI/view?usp=drive_link">
-    <img src="https://img.shields.io/badge/Resume-blue?style=for-the-badge&logo=Resume&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://drive.google.com/file/d/1v0zJ2lWaY51cxkkRE-KgNmSkj-WgP3qI/view">
+    <img src="https://img.shields.io/badge/Resume-0052CC?style=for-the-badge&logo=file&logoColor=white"/>
   </a>
-<!--   <a href="https://www.instagram.com/harshal_k_wagh/">
-    <img src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white" alt="insta Badge"/>
-  </a> -->
- 
-</div>
- <img src="https://komarev.com/ghpvc/?username=8309h&style=flat-square&color=blue" alt=""/>
+</p>
 
-<h1> Languages and Tools </h1>
-<!-- <img src="https://skillicons.dev/icons?i=javascript,netlify,vscode,html,css,git,github,codepen,nodejs,express,mongodb,postman,replit"/> -->
+<img src="https://komarev.com/ghpvc/?username=8309h&style=flat-square&color=blue"/>
 
-<div>
-<!--   **Frontend:** -->
+---
 
+## 🛠️ Tech Stack
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![React](https://img.shields.io/badge/react.js-%231572B6.svg?style=for-the-badge&logo=react&logoColor=black)&nbsp;
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)&nbsp;
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
+### 💻 Frontend
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</p>
 
+### ⚙️ Backend & Database
+<p align="center">
+  <img src="https://img.shields.io/badge/NodeJS-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Socket.io-000000?style=for-the-badge&logo=socket.io&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nodemon-3C873A?style=for-the-badge&logo=nodemon&logoColor=white"/>
+</p>
 
-<!-- **Backend:** -->
-  
-  
-  
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)&nbsp;
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)&nbsp;
-![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)&nbsp;
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)&nbsp;
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)&nbsp;
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-&nbsp;
-</div>
+### 🧰 Tools & Platforms
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white"/>
+</p>
 
+---
 
-### :fire: My Stats :
+## 🔥 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=8309h&show_icons=true&locale=en&layout=compact&theme=dark&background=000000" alt="harshal" /></p>
+<p align="center">
+  <img src="https://github-readme-stats-iota-rosy-37.vercel.app/api?username=8309h&show_icons=true&theme=dark&background=000000" height="170" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=8309h&show_icons=true&locale=en&theme=dark&background=000000" alt="harshal" /></p>
+<p align="center">
+  <img src="https://github-readme-stats-iota-rosy-37.vercel.app/api/top-langs?username=8309h&layout=compact&theme=dark&background=000000" height="170" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=8309h&theme=dark&background=000000" height="170" />
+</p>
 
+---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=8309h&theme=dark&background=000000)](https://git.io/streak-stats)
-<br>
-
-
-
-
-
-
- 
-
+## 🚀 Thank You for Visiting My Profile!
