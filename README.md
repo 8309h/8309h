@@ -88,14 +88,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats-iota-rosy-37.vercel.app/api?username=8309h&show_icons=true&theme=dark&background=000000" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-iota-rosy-37.vercel.app/api/top-langs?username=8309h&layout=compact&theme=dark&background=000000" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=8309h&theme=dark&background=000000" height="170" />
+   <img src="https://github-readme-stats-iota-rosy-37.vercel.app/api/top-langs?username=8309h&layout=compact&theme=dark&background=000000" height="170" />
+   <img src="https://github-readme-streak-stats.herokuapp.com?user=8309h&theme=dark&background=000000" height="170" />
 </p>
 
 ---
