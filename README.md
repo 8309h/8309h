@@ -26,7 +26,7 @@
 - 💌 Email: **harshalwagh201718@gmail.com**  
 - 🔗 LinkedIn: [Click Here](https://www.linkedin.com/in/waghharshal/)
 - 🌐 Portfolio: [8309harshalwagh.netlify.app](https://8309harshalwagh.netlify.app/)  
-- 📄 Resume: [ View Resume](https://drive.google.com/file/d/1WPl8ZZinnjeaKrT644CMGc0Ar_0SpUaL/view?usp=sharing)  [⬇️ Download Resume](https://drive.google.com/uc?export=download&id=1WPl8ZZinnjeaKrT644CMGc0Ar_0SpUaL)
+- 📄 Resume: [ View Resume](https://drive.google.com/file/d/1XVFcsUyjVtcGUXjcj6sgJUFQ6pbD6hkU/view?usp=sharing)  [⬇️ Download Resume](https://drive.google.com/uc?export=download&id=1XVFcsUyjVtcGUXjcj6sgJUFQ6pbD6hkU)
 
 
 
