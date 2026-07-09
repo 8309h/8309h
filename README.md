@@ -8,16 +8,12 @@
 <h3 align="center">Aspiring Full Stack Web Developer</h3>
 
 ---
-
-
-
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=8309h&theme=onedark&no-frame=true&no-bg=true&margin-w=10&margin-h=10&cache=1" />
 </p>
 
 ---
-
 ## 🌟 About Me
 
 - 👀 Interested in building real-time, scalable applications  
@@ -34,14 +30,7 @@
 
 ## 🤝 Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/waghharshal/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://drive.google.com/file/d/1v0zJ2lWaY51cxkkRE-KgNmSkj-WgP3qI/view">
-    <img src="https://img.shields.io/badge/Resume-0052CC?style=for-the-badge&logo=file&logoColor=white"/>
-  </a>
-</p>
+
 
 <img src="https://komarev.com/ghpvc/?username=8309h&style=flat-square&color=blue"/>
 
