@@ -29,6 +29,9 @@ Building scalable backend systems, AI-powered applications, and high-performance
 <a href="mailto:harshalwagh201718@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=8309h&style=for-the-badge&color=blue"/>
+</p>
 
 </p>
 
@@ -120,34 +123,6 @@ An enterprise-grade Retrieval-Augmented Generation (RAG) platform that enables o
 ### 🛠️ Tech Stack
 
 `Next.js` • `React.js` • `TypeScript` • `NestJS` • `Node.js` • `MongoDB` • `Redis` • `JWT` • `Swagger` • `Google Gemini API` • `RAG` • `Vector Search` • `Prompt Engineering` • `Docker` • `AWS EC2` • `PM2` • `Nginx` • `GitHub Actions` • `Linux` • `Git`
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://8309harshalwagh.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://github.com/8309h">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/waghharshal/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:harshalwagh201718@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=8309h&style=for-the-badge&color=blue"/>
-</p>
 
 ---
 
@@ -321,20 +296,6 @@ An enterprise-grade Retrieval-Augmented Generation (RAG) platform that enables o
 
 </p>
 
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-| 🚀 Experience | 🤖 AI | ⚡ Backend | ☁️ Cloud |
-|--------------|------|-----------|----------|
-| **3+ Years** | Gemini AI | Node.js | AWS |
-| RAG Systems | Prompt Engineering | REST APIs | Docker |
-| MongoDB | PostgreSQL | Redis | Nginx |
-| TypeScript | Express.js | NestJS | PM2 |
-
-</div>
 
 ---
 
@@ -343,45 +304,9 @@ An enterprise-grade Retrieval-Augmented Generation (RAG) platform that enables o
 - ☸️ Kubernetes
 - 🧩 Microservices Architecture
 - 📡 GraphQL
-- 🤖 AI Agents
-- ⚡ Event-Driven Architecture
 - 📨 Apache Kafka
 - 🏗️ Advanced System Design
 - 🔥 High Performance Backend Engineering
-
----
-
-# 📫 Let's Connect
-
-<p align="center">
-
-<a href="mailto:harshalwagh201718@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/waghharshal/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/8309h">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://8309harshalwagh.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# 💡 Quote
-
-<p align="center">
-
-> **"First, solve the problem. Then, write the code."** — John Johnson
-
-</p>
 
 ---
 
