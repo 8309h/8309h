@@ -47,7 +47,7 @@ Building scalable backend systems, AI-powered applications, and high-performance
 
 # 👨‍💻 About Me
 
-💼 Software Engineer with **3+ years of professional experience** building scalable web applications, backend services, and AI-powered products.
+💼 Software Engineer with **2+ years of professional experience** building scalable web applications, backend services, and AI-powered products.
 
 ⚡ Backend Developer specializing in **Node.js, Express.js, TypeScript, NestJS & REST APIs**
 
